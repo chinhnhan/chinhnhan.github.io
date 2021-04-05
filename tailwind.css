@@ -1,8 +1,3 @@
-body {
-  background-color: #f7f8fa;
-  font-family: "Nexa", sans-serif;
-}
-
 /*! tailwindcss v2.0.4 | MIT License | https://tailwindcss.com */
 
 /*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
@@ -31178,6 +31173,11 @@ video {
 .animate-bounce {
   -webkit-animation: bounce 1s infinite;
           animation: bounce 1s infinite;
+}
+
+body {
+  background-color: #f7f8fa;
+  font-family: "Nexa", sans-serif;
 }
 
 @media (min-width: 640px) {
