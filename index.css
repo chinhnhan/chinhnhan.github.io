@@ -1,0 +1,8 @@
+body {
+  background-color: #f7f8fa;
+  font-family: "Nexa", sans-serif;
+}
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
