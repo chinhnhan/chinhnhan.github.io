@@ -19,3 +19,40 @@ body {
   background-color: #f7f8fa;
   font-family: "Nexa", sans-serif;
 }
+
+.my__email {
+  color: #e67322;
+  width: 100px;
+  line-height: 10px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.25rem;
+  font-size: 0.85rem;
+  border: 1px solid #e67322;
+  border-radius: 1.05rem;
+  transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out,
+    opacity 0.25s ease-in-out;
+}
+
+.my__email:hover {
+  color: white;
+  background-color: #e67322;
+}
+
+.my__linkedin {
+  color: #2188ff;
+  width: 100px;
+  line-height: 10px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.25rem;
+  font-size: 0.85rem;
+  border: 1px solid #2188ff;
+  border-radius: 1.05rem;
+  transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out,
+    opacity 0.25s ease-in-out;
+}
+.my__linkedin:hover {
+  color: white;
+  background-color: #2188ff;
+}
