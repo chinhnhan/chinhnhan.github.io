@@ -20,7 +20,7 @@ body {
   font-family: "Nexa", sans-serif;
 }
 
-.my__email {
+.my__resume {
   color: #e67322;
   width: 100px;
   line-height: 10px;
@@ -34,7 +34,7 @@ body {
     opacity 0.25s ease-in-out;
 }
 
-.my__email:hover {
+.my__resume:hover {
   color: white;
   background-color: #e67322;
 }
